@@ -1,6 +1,6 @@
 # Description
 
-This is a micro tree models from scratch. You can see more details in the examples notebook.
+This is a micro tree models from scratch. You can see more details in the examples notebook. If you are interesting in theoretic part, feel free to visit my post [here](https://ansonuser.github.io/ansonwang/).
 
 # Requirements
 
